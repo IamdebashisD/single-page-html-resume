@@ -6,6 +6,10 @@ It represents a developer profile with sections like About, Skills, Experience, 
 The project is beginner-friendly and focuses on **clean structure and readability**, without using any CSS or JavaScript.
 
 ---
+## 👁‍🗨 Preview
+
+![Image Description](./singlePageResume/screenshot/singlePageResume_resumepage.png)
+___
 
 ## 📌 Project Overview
 
@@ -40,13 +44,15 @@ No external libraries or frameworks are used.
 ---
 
 ## 📂 File Structure
-    ├── singlePageResume(folder)
+    ├── singlePageResume (folder)
     |   |    
     |   │-- resumepage.html (HTML file)
     |   |
-    |   |-- image.png (Image file)
+    |   |-- screenshot (folder)
+    |       |
+    |       |-- image.png
     |
-    └── Readme.md(markdown folder)
+    └── Readme.md (markdown folder)
 
 ___
 
